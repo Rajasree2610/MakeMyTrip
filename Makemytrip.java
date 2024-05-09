@@ -127,6 +127,6 @@ public class Makemytrip {
 	  System.out.println("Test Failed");
   }
   
- //driver.quit();
+ driver.quit();
 }
 }
